@@ -8,10 +8,15 @@ One of my greatest motivations for pursuing Computer Science in college is that 
 
 Always looking forward to opportunities that allow me to learn, grow and contribute to innovative projects!
 🔴 Degree: B.S in Computer Science at Arizona State University (Junior) 
+
 🟠 What I'm currently Learning: Machine learning, C++ & Java
+
 🟡 Tech Stack: Python, C, C++, Java, MATLAB, SQL, HTML, CSS, Github, Excel, Visual Studio
+
 🟢 My interests: Machine learning, AI and UI/UX
+
 🔵 Contact: Email: nbahirgo@asu.edu 
+
 ⚪️ Pronouns: She/Her 
             
 ---

@@ -7,16 +7,13 @@ As someone who values teamwork and continuous learning, I love collaborating on 
 One of my greatest motivations for pursuing Computer Science in college is that it allows me to blend my technical skills with creativity. To me, this field opens a door full of opportunities, allowing me to design and develop codes, applications, and programs that are products of my own creativity and imagination 💌
 
 Always looking forward to opportunities that allow me to learn, grow and contribute to innovative projects!
-🔴 Degree: B.S in Computer Science at Arizona State University (Junior) 
 
-🟠 What I'm currently Learning: Machine learning, C++ & Java
+🔴 **Degree**: B.S in Computer Science at Arizona State University (Junior)  
+🟠 **Currently Learning**: Machine Learning, C++, Java  
+🟡 **Tech Stack**: Python, C, C++, Java, MATLAB, SQL, HTML, CSS, GitHub, Excel, Visual Studio  
+🟢 **Interests**: Machine Learning, AI, UI/UX  
+🔵 **Contact**: nbahirgo@asu.edu
+⚪ **Pronouns**: She/Her  
 
-🟡 Tech Stack: Python, C, C++, Java, MATLAB, SQL, HTML, CSS, Github, Excel, Visual Studio
-
-🟢 My interests: Machine learning, AI and UI/UX
-
-🔵 Contact: Email: nbahirgo@asu.edu 
-
-⚪️ Pronouns: She/Her 
             
 ---

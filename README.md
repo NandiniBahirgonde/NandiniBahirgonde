@@ -1,4 +1,4 @@
-📌 Hi! I'm Nandini Bahirgonde. 
+###📌 Hi! I'm Nandini Bahirgonde. 
 
 
 I'm a junior majoring in **Computer Science** at **Arizona State University**, with a passion for building technology that’s thoughtful, scalable, and human-centered. My academic and personal projects reflect a deep interest in the intersection of **web development**, **machine learning**, and **user experience design**.

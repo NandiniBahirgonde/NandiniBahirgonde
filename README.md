@@ -11,6 +11,7 @@ Always looking forward to opportunities that allow me to learn, grow and contrib
 
 🔴 **Degree**: B.S in Computer Science at Arizona State University (Junior)  
 🟠 **Currently Learning**: Machine Learning, C++, Python
+
 🟡 **Tech Stack**: Python, C, C++, Java, MATLAB, SQL, HTML, CSS, GitHub, Excel, Visual Studio  
 🟢 **Interests**: Machine Learning, AI, UI/UX  
 🔵 **Contact**: nbahirgo@asu.edu
